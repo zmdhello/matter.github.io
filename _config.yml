@@ -12,7 +12,7 @@ github_repo: "https://github.com/zmdhello/matter.github.io.git" # you code repos
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "go and sing"
-sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: https://github.com/zmdhello/picturestore/blob/main/%E6%BD%A6%E8%8D%89%E9%98%BF%E6%AF%94%E8%A5%BF%E5%B0%BC%E4%BA%9A%E7%8C%AB_3.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
